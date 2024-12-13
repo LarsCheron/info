@@ -275,6 +275,11 @@ nav span{
     grid-row: 2;
 }
 
+.workimg{
+    width: 250px;
+    height: 250px;
+}
+
 .contact{
     display: flex;
     margin-top: 100px;
